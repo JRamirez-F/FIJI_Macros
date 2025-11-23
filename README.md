@@ -12,4 +12,4 @@ It provides descriptions and links to individual macro repositories.
 
 For detailed usage and installation of each macro instructions, visit the respective macro repositories. 
 
-Feel free to reach at Image.sc pinging @J_Ramirez 
+Feel free to reach at Image.sc pinging `@J_Ramirez `
