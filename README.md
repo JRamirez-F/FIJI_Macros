@@ -5,10 +5,12 @@ It provides descriptions and links to individual macro repositories.
 ## Available Macros 
  
 - [FIJI Focus Macros:](https://github.com/JRamirez-F/FIJI_Focus_Macros)
- It allows to detect unfocused images based on the StdDev of the edges. Allows for user control of the parameters and the sensitivity
+It allows to detect unfocused images based on the StdDev of the edges. Allows for user control of the parameters and the sensitivity
 
-- 
+- [Measuring distance of Synaptic Vesicles to the Active Zone in TEM images of synapses:](https://github.com/JRamirez-F/Distance_SVs_to_AZ_in_FIJI)
+This FIJI/ImageJ macro performs a semi-automated measurement of distances between synaptic vesicles (SVs) and the active zone (AZ) in microscopy images.
 -
+
 
 For detailed usage and installation of each macro instructions, visit the respective macro repositories. 
 
